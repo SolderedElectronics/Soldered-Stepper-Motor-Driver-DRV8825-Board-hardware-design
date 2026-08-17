@@ -1,0 +1,11 @@
+# Our internal files folder
+INTERNAL/
+# OS / KiCad cruft
+.DS_Store
+Thumbs.db
+*.kicad_prl
+*-bak
+*~
+_autosave-*
+fp-info-cache
+*-backups/
